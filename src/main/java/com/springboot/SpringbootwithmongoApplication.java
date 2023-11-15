@@ -9,5 +9,6 @@ public class SpringbootwithmongoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootwithmongoApplication.class, args);
 	}
+	System.out.println("hello");
 
 }
